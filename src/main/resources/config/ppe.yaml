@@ -1,0 +1,5 @@
+http:
+  listener:
+    host: "localhost"
+    port: "9081"
+    path: "/getRoutes"
